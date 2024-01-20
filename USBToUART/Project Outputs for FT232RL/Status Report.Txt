@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [FT232RL.PRJPCB]
+   Generated File[FT232RL.GTL]
+   Generated File[FT232RL.GBL]
+   Generated File[FT232RL.GTS]
+   Generated File[FT232RL.GBS]
+   Generated File[FT232RL.GKO]
+   Generated File[FT232RL.RUL]
+   Generated File[FT232RL.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 11:42:15 On 23.6.2011 ã.

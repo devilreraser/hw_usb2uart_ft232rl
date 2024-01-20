@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: FT232RL.PCBDOC   23.6.2011 ã.  11:42:05
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7mm (27.559mil)        5                133.95 mm (5.27 Inch)
+T2        0.75mm (29.528mil)       2                116.57 mm (4.59 Inch)
+T3        0.9mm (35.433mil)        4                118.17 mm (4.65 Inch)
+T4        1mm (39.37mil)           6                113.81 mm (4.48 Inch)
+T5        1.2mm (47.244mil)        2                118.15 mm (4.65 Inch)
+---------------------------------------------------------------------------
+Totals                             19               600.65 mm (23.65 Inch)
+
+Total Processing Time : 00:00:06
